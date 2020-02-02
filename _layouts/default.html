@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="{{ page.html_lang | default: site.html_lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Special+Elite:regular&display=swap">
+  </head>
+  <body>
+    <article>
+      {{ content }}
+    </article>
+  </body>
+</html>
