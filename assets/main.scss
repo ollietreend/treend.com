@@ -26,6 +26,7 @@ h1 {
   font-weight: normal;
   text-decoration: underline;
   line-height: 1.5em;
+  text-align: center;
 }
 
 h1 strong {
@@ -39,7 +40,7 @@ hr {
   margin: 4rem 0;
 
   &:after {
-    content: '**************************';
+    content: '********************';
     display: block;
     text-align: center;
   }
@@ -48,6 +49,12 @@ hr {
 em {
   text-decoration: underline;
   font-style: normal;
+}
+
+.closing {
+  text-align: right;
+  width: 75%;
+  margin: 4rem 0;
 }
 
 @media print {
@@ -63,5 +70,9 @@ em {
   body, article {
     margin: 0;
     width: 100%;
+  }
+
+  p {
+    break-inside: avoid;
   }
 }

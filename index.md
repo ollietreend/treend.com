@@ -1,7 +1,7 @@
 ---
 title: A Few Incidents in the Life of W. R. Treend
 ---
-# **TO WHOM IT MAY CONCERN:** A Few Incidents in the Life of W. R. Treend
+# **TO WHOM IT MAY CONCERN** A Few Incidents in the Life of W. R. Treend
 
 ---
 
@@ -445,6 +445,7 @@ Or the friends we make as we pass along,
 That is what I call wealth.  
 
 W. R. T.
+{: class="closing"}
 
 ---
 
@@ -566,5 +567,6 @@ When you sit down to add up your assets each fall,
 Be thankful for *Bessie*, – She is worth more than them all.
 
 DAD.
+{: class="closing"}
 
 The above is more truth than poetry.
