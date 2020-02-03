@@ -3,6 +3,8 @@ title: A Few Incidents in the Life of W. R. Treend
 ---
 # **TO WHOM IT MAY CONCERN:** A Few Incidents in the Life of W. R. Treend
 
+---
+
 I was born in London, England,  
 In the year eighteen hundred sixty-five,  
 My parents were both English,  
@@ -443,3 +445,126 @@ Or the friends we make as we pass along,
 That is what I call wealth.  
 
 W. R. T.
+
+---
+
+Biography (in part) of Henry Albert Treend, for his 32nd Birthday. (By Dad).
+
+Oftentimes now, when my memory carries me back,  
+To the time and the place where Hank was born,  
+And that old farm house,– it was only a shack,  
+In Saskatchewan, and that country of storm.
+
+It was Saturday, the fifteen day of December,  
+We had so much grief, I can easy remember,  
+I drove to Grenfell for grub, but I got a late start,  
+And before I got back it was stormy and dark.
+
+I had got almost home when I lost my way.  
+It was snowing and blowing, so I stodd up in the sleigh.  
+When all of a sudden I spied a fresh track,  
+So I followed it round, and it brought me right back.
+
+That track was my own, so I bade it good-bye,  
+And started straight across the prairie in another try.  
+After about three hours more of prairie and stubble,  
+I arrived safely home and found plenty of trouble.
+
+When I got into the house, that was so nice and warm,  
+I soon found out that I had some further to roam.  
+My wife came to me and said, I think it is best  
+That you go get Mrs. Perry,– she lives three miles West.
+
+So I hitched Prince and Donald to the same old sleigh,  
+Tied a lantern to the sleigh tongue and hurried away,  
+And got Mr. and Mrs. Berry to come out in the cold,  
+But by the time we got home, Hank was ten minutes old.
+
+The next morning at dawn, altho it was fifty below,  
+To Grenfell for Dr. Argue I decided to go.  
+He proclaimed everything had been properly done,  
+And informed me that Hank was a wonderful son.
+
+About that time I decided to take the first chance  
+To move to Alberta, and put the boys on a ranch.  
+The stock were not many, and the start it was slow,  
+But the horses and cattle continued to grow.
+
+So when Hank was only a year and a half old,  
+The Saskatchewan farm and machinery was sold.  
+I had money enough to buy two hundred head,  
+When we moved to Alberta and took a homestead.
+
+We moved to Alberta in Nineteen Hundred and Two,  
+Settled forty miles from Gleichen, where the country was new.  
+It was out there that Hank and his Brother Billy,  
+First learned to ride ponies called Flora and Jenny.
+
+One night I came home late, found my wife all alarmed,  
+Hank had fallen from his high chair and broken his arm.  
+I fixed it with shingle splints from the roof of the barn,  
+And he played while it knit, and it did him no harm.
+
+Before Hank had reached for his fourth birthday,  
+I had some news for him that was hard to say.  
+For his Mother's health would not allow her to stay,  
+And on the shores of England, she had passed away.
+
+One day we were out riding, when Hank's cayuse it shied,  
+and dumped him quite roughly upon the hillside.  
+He cried, but when I laughed it sure did get his goat,  
+But he climed back in the saddle, saying "I ride till you're broke."
+
+Hank got no early start with his books nor his pen,  
+But spent most of his time in the bunkhouse with men.  
+When he did go to school, he enjoyed every chance  
+to spin yarns to the teacher of cowboys and ranch.
+
+That was only the beginning of their riding career,  
+And they were not very big when they began to appear  
+For the general roundup that took place each year,  
+To gather up all the cattle and give each man his steer.
+
+When the world war broken out, hired cowboys were few.  
+It was then Hank and his Brother Billy found plenty to do.  
+The cattle had grown over seven thousand strong.  
+And they many times rode the whole night long.
+
+A rider finds plenty of work on a ranch in the West  
+Rounding up the wild horses, breaking only the best.  
+Where each rider takes ten all for his own string,  
+and they're all tired out when the roundup comes in.
+
+To drive a thousand steers to market calls for riders of sense.  
+For they are not easy to handle, where the roadways are fenced.  
+From the ranch into Calgary, took a seven day drive,  
+And if not properly handled, you's have only the hide.
+
+But I had three I could always rely on with safety.  
+That was Hank and Billy and the Foreman Treacy.  
+Just like three cards of a kind,– makes a good poker hand.  
+So were these three, at their work, in the cattle land.
+
+At last Hank got married, and I heaved a great sigh,  
+For all the teachers and nurses had Hank in their eye.  
+I saw him *meet* Bessie Stewart, and I knew from the start,  
+That Bessie had lassoed Hank Treend by the heart.
+
+Looking back now, those were the good old days,  
+When, wherever you rode, it was bunch grass and sage.  
+And we feared not the drought, nor the hail, nor the frost,  
+When every steer that we sold brought far more than it cost.
+
+Times have changed now, and I feel sorry for Hank,  
+With his four sections of land, and the low price of wheat,  
+When he goes out in the morning, his three tractors to crank,  
+And he knows that his profits won't buy even grease.
+
+Even farm produce is low, Hank. There's no use feeling glum,  
+Just think what you had in Ninteen Hundred and One.  
+When you sit down to add up your assets each fall,  
+Be thankful for *Bessie*, – She is worth more than them all.
+
+DAD.
+
+The above is more truth than poetry.

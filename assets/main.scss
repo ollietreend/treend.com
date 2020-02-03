@@ -34,6 +34,22 @@ h1 strong {
   display: block;
 }
 
+hr {
+  border: 0;
+  margin: 4rem 0;
+
+  &:after {
+    content: '**************************';
+    display: block;
+    text-align: center;
+  }
+}
+
+em {
+  text-decoration: underline;
+  font-style: normal;
+}
+
 @media print {
   html {
     font-size: 50%;
