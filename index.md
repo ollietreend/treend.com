@@ -570,3 +570,8 @@ DAD.
 {: class="closing"}
 
 The above is more truth than poetry.
+
+---
+
+[Original source]({% link /assets/A_Few_Incidents_in_the_Life_of_W_R_Treend.pdf %}).
+Made with ♥ by [Ollie Treend](https://twitter.com/OllieTreend).
